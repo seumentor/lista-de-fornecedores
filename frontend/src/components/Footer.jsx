@@ -9,19 +9,19 @@ const Footer = ({ data }) => {
           {/* Logo */}
           <div className="flex items-center gap-3 mb-6">
             <TrendingUp className="w-8 h-8 text-yellow-500" />
-            <span className="text-white font-bold text-2xl">MENTEDOSUCESSO5</span>
+            <span className="text-white font-bold text-2xl">FORNECEDORES VIP</span>
           </div>
 
           {/* Social Links */}
           <div className="flex items-center gap-6 mb-6">
             <a
-              href="https://instagram.com/mentedosucesso5"
+              href="https://instagram.com/fornecedoresvip"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-gray-400 hover:text-yellow-500 transition-colors duration-300"
             >
               <Instagram className="w-6 h-6" />
-              <span>@mentedosucesso5</span>
+              <span>@fornecedoresvip</span>
             </a>
             <a
               href="mailto:contato@mentedosucesso5.com"
@@ -48,7 +48,7 @@ const Footer = ({ data }) => {
           {/* Copyright */}
           <div className="text-center">
             <p className="text-gray-500 text-sm">
-              © {new Date().getFullYear()} MENTEDOSUCESSO5. Todos os direitos reservados.
+              © {new Date().getFullYear()} FORNECEDORES VIP. Todos os direitos reservados.
             </p>
             <p className="text-gray-600 text-xs mt-2">
               Este site não faz parte do Facebook ou do Facebook Inc. Além disso, este site NÃO é endossado pelo Facebook de nenhuma maneira.

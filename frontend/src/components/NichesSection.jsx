@@ -66,7 +66,7 @@ const NichesSection = ({ data }) => {
             size="lg"
             className="bg-gradient-to-r from-yellow-500 to-yellow-600 hover:from-yellow-600 hover:to-yellow-700 text-black font-black text-xl px-12 py-8 rounded-xl shadow-2xl transform hover:scale-105 transition-all duration-300"
           >
-            QUERO TER ACESSO AOS MELHORES FORNECEDORES
+            COMPRAR AGORA
           </Button>
         </div>
       </div>

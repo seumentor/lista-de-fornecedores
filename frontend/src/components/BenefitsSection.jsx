@@ -57,7 +57,7 @@ const BenefitsSection = ({ data }) => {
                 São os mesmos fornecedores usados pelas <span className="text-yellow-400 font-bold">grandes lojas</span> que compram produtos a preço de fábrica e vendem para todo o Brasil!
               </p>
               <p className="text-lg text-gray-300 mt-6 text-center">
-                Pensando nisso, nós do <span className="text-yellow-400 font-bold">mentedosucesso5</span> criamos uma lista exclusiva com mais de <span className="text-yellow-400 font-bold">1000 fornecedores</span> de TODOS os NICHOS do mercado exclusivamente para VOCÊ!
+                Pensando nisso, nós do <span className="text-yellow-400 font-bold">FORNECEDORES VIP</span> criamos uma lista exclusiva com mais de <span className="text-yellow-400 font-bold">1000 fornecedores</span> de TODOS os NICHOS do mercado exclusivamente para VOCÊ!
               </p>
             </CardContent>
           </Card>

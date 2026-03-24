@@ -126,7 +126,7 @@ const PricingSection = ({ data }) => {
                 className="w-full bg-gradient-to-r from-yellow-500 to-yellow-600 hover:from-yellow-600 hover:to-yellow-700 text-black font-black text-2xl py-8 rounded-xl shadow-2xl transform hover:scale-105 transition-all duration-300 animate-pulse-slow"
               >
                 <Zap className="w-8 h-8 mr-3" />
-                SIM! EU QUERO AGORA A SUPER LISTA DE FORNECEDORES
+                COMPRAR AGORA
               </Button>
 
               {/* Guarantee */}

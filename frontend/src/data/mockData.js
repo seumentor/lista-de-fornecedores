@@ -163,7 +163,7 @@ export const mockData = {
   footer: {
     year: new Date().getFullYear(),
     social: {
-      instagram: "@mentedosucesso5"
+      instagram: "@fornecedoresvip"
     }
   }
 };

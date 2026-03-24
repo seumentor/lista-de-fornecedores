@@ -24,7 +24,7 @@ const HeroSection = ({ data }) => {
           <div className="flex items-center gap-3 bg-gradient-to-r from-yellow-500 to-yellow-600 p-1 rounded-lg">
             <div className="bg-black px-6 py-3 rounded-lg flex items-center gap-3">
               <TrendingUp className="w-8 h-8 text-yellow-500" />
-              <span className="text-white font-bold text-2xl tracking-tight">MENTEDOSUCESSO5</span>
+              <span className="text-white font-bold text-2xl tracking-tight">FORNECEDORES VIP</span>
             </div>
           </div>
         </div>
@@ -81,7 +81,7 @@ const HeroSection = ({ data }) => {
             className="bg-gradient-to-r from-yellow-500 to-yellow-600 hover:from-yellow-600 hover:to-yellow-700 text-black font-black text-xl px-12 py-8 rounded-xl shadow-2xl transform hover:scale-105 transition-all duration-300 animate-pulse-slow"
           >
             <Zap className="w-6 h-6 mr-3" />
-            QUERO TER ACESSO AOS MELHORES FORNECEDORES
+            COMPRAR AGORA
           </Button>
         </div>
       </div>
