@@ -76,3 +76,14 @@ html {
 ::-webkit-scrollbar-thumb:hover {
     background: #ca8a04;
 }
+
+/* Hide Emergent badge */
+[class*="emergent"],
+[class*="Emergent"],
+[id*="emergent"],
+[id*="Emergent"],
+iframe[src*="emergent"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+}

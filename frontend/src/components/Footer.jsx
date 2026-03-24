@@ -15,16 +15,16 @@ const Footer = ({ data }) => {
           {/* Social Links */}
           <div className="flex items-center gap-6 mb-6">
             <a
-              href="https://instagram.com/fornecedoresvip"
+              href="https://instagram.com/proffernandoaugusto"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-gray-400 hover:text-yellow-500 transition-colors duration-300"
             >
               <Instagram className="w-6 h-6" />
-              <span>@fornecedoresvip</span>
+              <span>@proffernandoaugusto</span>
             </a>
             <a
-              href="mailto:contato@mentedosucesso5.com"
+              href="mailto:atendimento@fernando-augusto.com"
               className="flex items-center gap-2 text-gray-400 hover:text-yellow-500 transition-colors duration-300"
             >
               <Mail className="w-6 h-6" />
